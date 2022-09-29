@@ -1,0 +1,15 @@
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\bin\Debug\net6.0\Exampes001_HelloConsole.exe
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\bin\Debug\net6.0\Exampes001_HelloConsole.deps.json
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\bin\Debug\net6.0\Exampes001_HelloConsole.runtimeconfig.json
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\bin\Debug\net6.0\Exampes001_HelloConsole.dll
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\bin\Debug\net6.0\Exampes001_HelloConsole.pdb
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.AssemblyInfo.cs
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.dll
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\refint\Exampes001_HelloConsole.dll
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.pdb
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\Exampes001_HelloConsole.genruntimeconfig.cache
+C:\Users\Olyly\Examples\Exampes001_HelloConsole\obj\Debug\net6.0\ref\Exampes001_HelloConsole.dll
